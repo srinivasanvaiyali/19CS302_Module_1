@@ -12,14 +12,18 @@ To write a program to initialize the value as 5.8 & display the same.
 
 ## Program:
 ```
-/*
-Program to initialize the value as 5.8 & display the same.
-Developed by: SRINIVASAN V
-RegisterNumber: 212222043008 
-*/
+#include<stdio.h> 
+int main() 
+{ 
+float a =5.800000; 
+printf ("%.1f",a); 
+return 0; 
+ 
+}
 ```
 
 ## Output:
+<img width="492" height="181" alt="442599795-7bdbd101-c6b4-43db-8159-47eb49f1ce9d" src="https://github.com/user-attachments/assets/afa85006-bece-4ae6-a6b2-584511dd1215" />
 
 
 
